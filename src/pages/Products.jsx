@@ -1,4 +1,4 @@
-export const Products = () => {
+const Products = () => {
   return (
     <main>
       <h1>Welcome</h1>
@@ -11,3 +11,5 @@ export const Products = () => {
     </main>
   );
 };
+
+export default Products;
